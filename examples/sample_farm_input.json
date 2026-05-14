@@ -1,0 +1,73 @@
+{
+  "general": {
+    "farm_name": "Sample Valley Farm",
+    "owner_operator": "Sample Operator",
+    "farm_address": "123 Example Road, Sampletown, NY",
+    "county_state": "Livingston County, New York",
+    "operation_type": "a small beef cattle operation with hay feeding, pasture use, and seasonal barnyard concentration",
+    "animals": "24 beef cows, 8 replacement heifers, and seasonal calves",
+    "housing_areas": "old bank barn, open barnyard south of the barn, and seasonal pasture access",
+    "manure_system": "solid manure is scraped from the barnyard and stacked before field application",
+    "land_base": "hay fields and pasture",
+    "evaluation_date": "May 14, 2026",
+    "evaluator": "Conservation Planner"
+  },
+  "selected_sections": [
+    "farmstead",
+    "barnyards",
+    "roof_runoff_clean_water",
+    "pasture"
+  ],
+  "sections": {
+    "farmstead": {
+      "description": "main production area includes the old barn, a south barnyard, hay feeding area, temporary manure stacking area, and farm driveway",
+      "animal_housing": "cattle use the old barn during winter feeding and have access to the barnyard during wet and cold periods",
+      "barnyards": "the primary barnyard is south of the barn and receives repeated cattle and tractor traffic",
+      "heavy_use_areas": "traffic is concentrated along the feed lane and barn entrance",
+      "manure_storage": "solid manure is stacked on a compacted area north of the barn until conditions allow spreading",
+      "feed_storage": "dry hay is stored inside and baleage is staged near the barnyard during winter feeding",
+      "drainage_patterns": "runoff generally moves east from the barnyard toward a grassed swale and road ditch",
+      "sensitive_features": "a road ditch is east of the farmstead and a water well is located near the house",
+      "clean_water_contamination": "roof runoff from the south barn roof crosses the barnyard before reaching the swale",
+      "contaminant_exit": "manure and sediment could leave the barnyard through the low area along the east driveway edge",
+      "current_management": "the operator scrapes manure when conditions allow and adds stone to the driveway as needed",
+      "observed_concerns": "clean water becomes contaminated when it crosses the barnyard, and manure-laden runoff could leave the production area during rainfall or snowmelt"
+    },
+    "barnyards": {
+      "location_size": "approximately 0.25 acre south of the old barn",
+      "animals_using": "24 beef cows and replacement heifers use the area during winter feeding and wet conditions",
+      "seasonal_use": "most heavily from late fall through early spring",
+      "surface_condition": "mixed gravel and soil with soft areas near the feed lane",
+      "vegetative_cover": "limited cover in the main traffic area",
+      "mud": "mud is present near the barn entrance after rainfall and thaw events",
+      "manure_accumulation": "manure accumulates along the scraping lane and around the feed area",
+      "runoff_direction": "runoff flows east toward the driveway edge and grassed swale",
+      "nearby_resources": "road ditch east of the barnyard",
+      "connections": "the barnyard connects the old barn, feed lane, driveway, and pasture gate",
+      "management": "area is scraped when equipment access is possible",
+      "concerns": "persistent livestock traffic, exposed soil, manure accumulation, and drainage toward the ditch create a contaminated runoff concern"
+    },
+    "roof_runoff_clean_water": {
+      "roof_areas": "south roof of the old barn contributes runoff directly to the barnyard",
+      "gutters": "gutters are incomplete and do not fully collect roof runoff",
+      "separation": "clean roof water is not fully separated from manure and traffic areas",
+      "underground_outlets": "no underground outlet is currently present",
+      "discharge": "clean water would need a stable discharge away from the barnyard and manure stack",
+      "concerns": "clean water is converted to contaminated runoff when it crosses manure and exposed barnyard surfaces"
+    },
+    "pasture": {
+      "acreage": "approximately 12 acres",
+      "animals": "beef cows and replacement heifers",
+      "season": "spring through fall as forage conditions allow",
+      "condition": "pasture cover is generally stable away from the barnyard gate",
+      "water_sources": "portable trough supplied from the farmstead",
+      "shade": "limited natural shade along field edges",
+      "concentrated_flow": "flow concentrates near the gate during wet weather",
+      "bare_soil": "bare soil is present near the pasture gate and water trough",
+      "sacrifice_lot": "barnyard functions as the wet-weather sacrifice area",
+      "stream_access": "no direct stream access was documented",
+      "management": "operator rotates access when forage height allows",
+      "concerns": "concentrated traffic near the gate and water trough can expose soil and move sediment toward the farmstead drainage pattern"
+    }
+  }
+}
